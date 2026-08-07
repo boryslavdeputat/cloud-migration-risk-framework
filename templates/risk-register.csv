@@ -1,0 +1,3 @@
+id,risk,likelihood,impact,mitigation,owner,status
+R1,data loss on cutover,M,H,CDC + checksums + freeze,data-eng,open
+R2,DNS cache delays,M,M,TTL lower 48h prior,netops,open
